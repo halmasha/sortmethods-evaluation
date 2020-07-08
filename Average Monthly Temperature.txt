@@ -1,0 +1,13 @@
+Average Monthly Temperature recorded between 1950 to 2014
+January: 39.06
+February: 44.83
+March: 55.46
+April: 67.49
+May: 76.55
+June: 85.04
+July: 90.12
+August:89.07
+September: 80.94
+October: 69.81
+November: 54.4
+December: 42.23
